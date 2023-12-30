@@ -1,4 +1,9 @@
-### Hi there 👋
+### Ph.D. Candidate @ International Max Planck Research School for Intelligent Systems.
+
+I like detecting Anomalies.
+
+[Here](https://rodrigolpa.github.io) you can find some Anomaly Detection projects I have worked on.
+
 
 <!--
 **RodrigoLPA/RodrigoLPA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
