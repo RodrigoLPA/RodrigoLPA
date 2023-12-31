@@ -1,6 +1,6 @@
 ### Ph.D. Candidate @ International Max Planck Research School for Intelligent Systems.
 
-I like detecting Anomalies.
+I like detecting anomalies.
 
 [Here](https://rodrigolpa.github.io) you can find some Anomaly Detection projects I have worked on.
 
