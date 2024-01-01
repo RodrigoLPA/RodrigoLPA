@@ -2,7 +2,7 @@
 
 I like detecting anomalies.
 
-[Here](https://rodrigolpa.github.io) you can find some Anomaly Detection projects I have worked on.
+[Here](https://rodrigolpa.github.io) you can find some Anomaly Detection projects I work on in my spare time.
 
 
 <!--
